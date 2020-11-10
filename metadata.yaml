@@ -1,11 +1,16 @@
 _repo: Jupiter-s-Joke_63640
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63640-h/images/cover.jpg
 creator:
   author:
     agent_name: Haley, A. L.
     gutenberg_agent_id: '52522'
     url: http://www.gutenberg.org/2009/agents/52522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63640#Jupiter-s-Joke
 gutenberg_issued: '2020-11-05'
 gutenberg_type: Text
 identifiers:
